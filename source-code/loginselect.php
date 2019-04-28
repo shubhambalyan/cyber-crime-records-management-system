@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cyber Crime Records Management System</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div style="background-color: black;">
+            <h1 style="margin-left:50px;font-size: 50px; color:whitesmoke;font:bold;">CYBER CRIME RECORDS MANAGEMENT SYSTEM</h1> 
+        </div>
+		<div>
+            <h3 style="margin-left:490px;font:bold;font-size:45px;"> Select Your Login </h3>
+		</div> 
+		<div>
+		    <h2><a href="userloginregister.php">Civilian</a></h2></br>
+			<h2><a href="policeloginregister.php">Cyber Crime Bureau</a></h2>
+		</div>
+	<div class="footer" style="position: fixed; left: 0; bottom: 0; width: 100%; background-color: gray; color: white; text-align: center;">
+	  <p>&copy;2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saksham Balyan | Saksham Phadke</p>
+	</div>
+    </body>
+</html>
