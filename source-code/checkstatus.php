@@ -100,7 +100,7 @@ function test_input($data) {
 		</div>
 		<div id="statusresult"><?php echo $statusresult;?></div>
 	<div class="footer" style="position: fixed; left: 0; bottom: 0; width: 100%; background-color: gray; color: white; text-align: center;">
-	  <p>&copy;2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saksham Balyan | Saksham Phadke</p>
+	  <p>&copy;2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cyber Crime Records Management System</p>
 	</div>
     </body>
 </html>
