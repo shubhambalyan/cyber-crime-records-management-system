@@ -74,7 +74,7 @@ function test_input($data) {
         <div style="height: 90px; background-color: black; font-family: inherit; color: wheat;font-size: 35px;"> 
 			<center>CYBER CRIME RECORDS MANAGEMENT SYSYTEM</center>
 		</div>
-		<div><h2><a href="mainpage.php">Back</a></h2></div>
+		<div><h2><a href="mainpage.html">Back</a></h2></div>
         <div style="height: 400px; width: 800px; margin-left: 270px; background-image: url('cover22.jpg'); background-size: 800px; margin-top: 80px;"></div>
         <div>
 			<table border="2.0" style="color:white;width: 500px; height: 330px; margin-left: 330px;margin-top: -360px;"></table>
