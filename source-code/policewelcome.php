@@ -93,7 +93,7 @@ if(isset($_GET['q'])) {
         <p style="margin-top:-45px;font:bold; font-size: 25px; margin-left:200px;">VIEW ALL OPEN COMPLAINTS</p>
         <a href="mycomplaints.php?q=<?php echo $login_user; ?>"><div id="c"> </div></a>
         <p style="margin-top:-45px;font:bold; font-size: 25px; margin-left:230px;">VIEW MY COMPLAINTS</p>
-        <a href="mainpage.php"><div id="d"> </div></a>
+        <a href="mainpage.html"><div id="d"> </div></a>
         <p style="margin-top:-45px;font:bold; font-size: 25px; margin-left: 280px;">LOGOUT</p>
 	<div class="footer" style="position: fixed; left: 0; bottom: 0; width: 100%; background-color: gray; color: white; text-align: center;">
 	  <p>&copy;2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cyber Crime Records Management System</p>
